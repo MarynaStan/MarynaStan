@@ -1,10 +1,9 @@
 ### Hi there 👋
-
-<!--
+!--
 **MarynaStan/MarynaStan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Header]
-## I'm a QA Engineer Junior . 
+## I'm a QA Engineer Junior. 
 ## 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1Rad5fsJWiDmZ9vWm0FQ1m44UJpv1zLWI/view?usp=sharing)
@@ -28,7 +27,8 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/MarynaStan)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/maryna-stanishevska-776044240/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+
+
