@@ -1,5 +1,4 @@
 
-[![Header]
 ## I'm a QA Engineer Junior. 
 ## 
 ## My CV
@@ -14,6 +13,7 @@
 ![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+
 
 ### Testing Documentation
 
