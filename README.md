@@ -1,4 +1,4 @@
-![Header](https://miro.medium.com/max/640/1*BHvYE9IJvHqy09ocG6R1uw.jpeg)
+![Header](https://govcongiants.com/wp-content/uploads/2019/11/naics-code.jpg)
 ## I'm a QA Engineer Junior. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1Rad5fsJWiDmZ9vWm0FQ1m44UJpv1zLWI/view?usp=sharing)
