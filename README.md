@@ -1,6 +1,3 @@
-### Hi there 👋
-!--
-**MarynaStan/MarynaStan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Header]
 ## I'm a QA Engineer Junior. 
