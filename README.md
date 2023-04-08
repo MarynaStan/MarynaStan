@@ -17,7 +17,7 @@
 
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Cases](https://github.com/MarynaStan/MarynaStan/tree/main/Test-Cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug-Reports](https://github.com/MarynaStan/MarynaStan/tree/main/Bug-Reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
