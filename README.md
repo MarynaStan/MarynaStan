@@ -18,7 +18,7 @@
 - [Test-Cases](https://github.com/MarynaStan/MarynaStan/tree/main/Test-Cases)
 - [Bug-Reports](https://github.com/MarynaStan/MarynaStan/tree/main/Bug-Reports)
 - [SQL Queries](https://github.com/MarynaStan/MarynaStan/tree/main/SQL%20Queries)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/MarynaStan/MarynaStan/tree/main/Postman%20Collections)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4aa73c)](https://t.me/MarynaStan)
